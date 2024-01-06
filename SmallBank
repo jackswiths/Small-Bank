@@ -4,6 +4,7 @@ pragma solidity 0.8.18;
 
 // think should stick to v1
 // To be depleted
+// no more use, original version seems stable
 
 contract SmallBank {
     
